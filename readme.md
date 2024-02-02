@@ -32,10 +32,5 @@ Check out the live demo: [Calculator Demo](https://splendid-eclair-1beda2.netlif
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Feel free to customize the content based on additional information you'd like to include. The provided template covers the essential sections such as Demo, Features, Getting Started, Contributing, and License.
