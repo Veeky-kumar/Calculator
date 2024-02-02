@@ -1,7 +1,3 @@
-Certainly! Here's a simple README template for your calculator project:
-
----
-
 # Calculator Project
 
 Welcome to the Calculator project! This web application is a basic calculator built using HTML, CSS, and JavaScript.
